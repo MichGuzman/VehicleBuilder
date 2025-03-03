@@ -4,7 +4,7 @@
 This project is a console application that allows users to create and manage vehicles. Users can choose between three types of vehicles: **Car**, **Truck**, and **Motorcycle**. The application allows users to enter details about the vehicle and performs different actions depending on the type of vehicle selected. This project uses TypeScript and the Inquirer library to handle user input on the command line.
 
 ## Demo Video Link
-[Demo Video](VIDEO_URL)
+[Demo Video]([VIDEO_URL](https://drive.google.com/file/d/1Ke08psoZs4fNcZWw7Rc3JaVmDiuwNTJ3/view))
 *Make sure to replace "VIDEO_URL" with the actual link to your demo video.*
 
 ## Requirements
